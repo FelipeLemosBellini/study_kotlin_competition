@@ -1,6 +1,7 @@
 fun main(){
     val list = listOf(-1,0,1,2,3,4,5)
 //
+    //
     if (-1 !in 0..list.lastIndex) {
         println("-1 is out of range")
     }
